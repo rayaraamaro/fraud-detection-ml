@@ -129,7 +129,7 @@ Este problema se conecta com diversas áreas de detecção de anomalias, como:
 
 ## Estrutura do Projeto
 
-01_eda.ipynb  
+01_exploratory_data_analysis.ipynb 
 02_logistic_regression.ipynb  
 03_isolation_forest.ipynb  
 04_model_comparison.ipynb  
